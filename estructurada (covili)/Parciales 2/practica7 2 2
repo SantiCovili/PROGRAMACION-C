@@ -1,0 +1,17 @@
+/*Ejercicio 2. Se dispone del archivo binario examenes.dat, ordenado por curso, con los siguientes datos por examen rendido:
+
+Curso (entero)
+Legajo del alumno (entero)
+Nota (float, de 0 a 10)
+
+Se solicita:
+a) Para cada curso, informar la cantidad de exámenes rendidos y el promedio de notas. El cálculo del promedio debe hacerse en otra función.
+b) Informar el curso con el mejor promedio.
+c) Generar un archivo binario resumen.dat con un registro por curso, que contenga el número de curso y su promedio.*/
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct practica7 2 2
+{
+    /* data */
+};
